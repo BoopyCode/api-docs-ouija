@@ -1,0 +1,2 @@
+# No external dependencies - standard library only
+# (Unlike the APIs you're integrating with)
